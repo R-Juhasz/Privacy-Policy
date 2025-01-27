@@ -1,0 +1,55 @@
+Privacy Policy
+
+Effective Date: 26/01/2025
+Last Updated: 26/01/2025
+
+JuhaszStudios ("we," "our," or "us") respects your privacy and is committed to protecting it through this Privacy Policy. This document outlines how we collect, use, and protect your personal information when you use the Achieve75 app ("App").
+
+1. Information We Collect
+1.1 Information You Provide
+Account Information: When registering, you may provide your email, username, and password.
+Profile Information: Includes your profile picture and personal preferences.
+Progress Data: Information related to your challenge progress, workout alarms, water intake, diet plans, weight logs, and progress pictures.
+Bulletin Board Contributions: Posts, comments, and uploaded images.
+1.2 Automatically Collected Information
+Device Information: Includes device type, operating system, and unique device identifiers.
+Usage Data: Information about how you use the app, such as screen interactions and time spent on features.
+1.3 Third-Party Services
+We may collect data through third-party services like Firebase Authentication, Firestore, and SharedPreferences, which store user preferences and progress data locally.
+
+2. How We Use Your Information
+We use your data to:
+
+Provide and improve the app’s features, including alarms, notifications, and progress tracking.
+Personalize your experience based on your preferences and activities.
+Send reminders, motivational notifications, and updates related to your goals.
+Enable interaction with the bulletin board, including posting and viewing content.
+3. How We Share Your Information
+We do not sell or share your personal information with third parties, except:
+
+With Your Consent: When you voluntarily share posts, comments, or images on the bulletin board, they are visible to other app users.
+Service Providers: Trusted third-party services (e.g., Firebase) that help us operate and improve the app.
+Legal Obligations: When required to comply with the law or protect our rights.
+4. Data Retention
+Local Data: Progress data such as alarms, water intake, and weight tracking is stored locally on your device.
+Cloud Storage: Data uploaded to the bulletin board or saved in Firebase is stored until you delete it or request its removal.
+5. Security
+We take data protection seriously and implement reasonable measures to safeguard your data. However, no method of transmission or storage is 100% secure, so we cannot guarantee absolute security.
+
+6. Your Rights
+You have the right to:
+
+Access your personal data stored in the app.
+Update or delete your profile, progress data, and bulletin board contributions.
+Request data deletion by contacting us at [Insert Support Email].
+7. Children’s Privacy
+The app is not intended for children under 13. We do not knowingly collect personal information from children.
+
+8. Changes to This Policy
+We may update this Privacy Policy periodically. You will be notified of any significant changes through in-app notifications or email.
+
+9. Contact Us
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+Email: juhaszstudioz@gmail.com
+Company: JuhaszStudios
